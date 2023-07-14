@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=27dd6df9_002D2a62_002D4b5b_002D8f71_002D3d6c9db4bf9c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetLeaveTypeListTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C3736A43-7652-40EB-85DF-55144426EB9D::net7.0::HR_Management.Application.UnitTests.LeaveTypes.Queries.GetLeaveTypeListRequestHandlerTest.GetLeaveTypeListTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=59bd8011_002Ded6c_002D4856_002Dac9d_002D73c5a5408074/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetLeaveTypeListTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C3736A43-7652-40EB-85DF-55144426EB9D::net7.0::HR_Management.Application.UnitTests.LeaveTypes.Queries.GetLeaveTypeListRequestHandlerTest.GetLeaveTypeListTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C3736A43-7652-40EB-85DF-55144426EB9D::net7.0::HR_Management.Application.UnitTests.LeaveTypes.Commands.CreateLeaveTypeCommandHandlerTest.CreateLeaveType&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
